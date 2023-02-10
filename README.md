@@ -46,6 +46,6 @@ Aquí hay algunos de mis proyectos más destacados:
 
 Si desea contactarme, puede hacerlo a través de mi correo electrónico en diego.mendozam@ug.edu.ec.
 
-También puede encontrarme en https://www.facebook.com/profile.php?id=100008295640287 y en https://www.instagram.com/dielmenme20/
+También puede encontrarme en [Facebook](https://www.facebook.com/profile.php?id=100008295640287) y en [Instagram](https://www.instagram.com/dielmenme20/)
 
 Gracias por visitar mi sitio en GitHub Pages. ¡Espero que lo encuentre útil y interesante!
