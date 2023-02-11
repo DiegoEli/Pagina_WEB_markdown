@@ -11,7 +11,7 @@ Hola, mi nombre es Diego y este es mi sitio en GitHub Pages. Este sitio es una f
 
 
 
-Soy un estudiante de Ingenieria de Software. Me apasiona hacer deporte y aprender sobre las tecnologias que se usan en el desarrollo de Aplicaciones y estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
+Soy un estudiante de Ingeniería de Software. Me apasiona hacer deporte y aprender sobre las tecnologías que se usan en el desarrollo de Aplicaciones y estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
 
 
 
@@ -23,21 +23,24 @@ Aquí hay algunos de mis proyectos más destacados:
 
 
 
-- [Nombre del proyecto 1](link al proyecto 1): Una descripción breve del proyecto 1.
 
-- Sistema de Matrimonios: Es un sistema que permite registrar Matrimonios para llevar un control de cuanta gente se a Casado y en que fechas.
+- Sistema de Validación de cédula: Es un sistema que permite verificar de acuerdo con varios parámetros si un número de cédula de un usuario es válido o no.
 
-- cedula: descripcion
+- Sistema de Gestión Académica: Este sistema permite registrar facultades, carreras y alumnos para así poder llevar un control del mismo.
 
-- crud en C: descripcion
+- Sistema de Matrimonios: Es un sistema que permite registrar Matrimonios para llevar un control de cuánta gente se ha Casado y en que fechas.
+
+- Sistema de Gestión de Espacios de Trabajo Compartidos: Es un sistema que permite registrar, editar y eliminar los datos del asesor para llevar un control del uso de los espacios de trabajo.
+
+- Base de datos de la App "Gestión de Espacios de Trabajo Compartidos": Es una base de datos que permite gestionar y administrar los datos del asesor.
 
 - Plantilla de especificación de diseño de software: Es un esquema que determina la estructura que debe tener un aplicativo de desarrollo.
 
-- Sistema de Gestión de Árbitros: Es un sistema que permite registrar arbitros, secretarias y presidentes para llevar un control de quién asistirá a X o Y partido.
-
 - Base de datos de la tienda "Sweet Dreams": Es una base de datos que permite gestionar el inventario de productos con los que cuenta el local comercial.
 
-- Base de datos de la App "Gestion de arbitros": Es una base de datos que permite gestionar el administrar los partidos con sus respectivos arbitros.
+- Sistema de Gestión de Árbitros: Es un sistema que permite registrar árbitros, secretarias y presidentes para llevar un control de quién asistirá a X o Y partido.
+
+- Base de datos de la App "Gestión de Árbitros": Es una base de datos que permite gestionar y administrar los partidos con sus respectivos árbitros.
 
 
 ## Contacto
